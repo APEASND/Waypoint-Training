@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "--directory", "/Users/brianmcgrath/Desktop/AI/CLAUDE COWORK/Waypoint-Training"],
+      "port": 8181,
+      "autoPort": true
+    }
+  ]
+}
